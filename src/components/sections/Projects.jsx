@@ -5,7 +5,7 @@ import projects from "../../data/projects"
 
 function Projects() {
   return (
-    <section className="max-w-5xl mx-auto px-6 py-24">
+    <section id="projects" className="max-w-5xl mx-auto px-6 py-24">
       <SectionHeading
         title="Featured Projects"
         subtitle="Things I've built with my team and on my own"
